@@ -1,7 +1,7 @@
 public  class day1 {
 
     public static void main(String args[]) {
-        // Main method logic (if any) can be placed here
+        
     }
 
     // Nested Solution class
